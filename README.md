@@ -9,13 +9,13 @@ Features:
 - Trained on MIDI files for realistic compositions.
 
 Technologies Used:
-Python
-TensorFlow/Keras
-LSTM (Long Short-Term Memory)
-MIDI Processing
+- Python
+- TensorFlow/Keras
+- LSTM (Long Short-Term Memory)
+- MIDI Processing
 
 How to Use:
-1. Clone this repo:
+- Clone this repo:
 git clone https://github.com/devma5/Rhythmix-Music-Generation-Using-LSTM.git
-2. Open RhythmiX.ipynb in Google Colab or Jupyter Notebook.
-3. Run the notebook and generate MIDI music!
+- Open RhythmiX.ipynb in Google Colab or Jupyter Notebook.
+- Run the notebook and generate MIDI music!
