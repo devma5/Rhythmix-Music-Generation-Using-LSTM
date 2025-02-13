@@ -15,7 +15,6 @@ Technologies Used:
 - MIDI Processing
 
 How to Use:
-- Clone this repo:
-git clone https://github.com/devma5/Rhythmix-Music-Generation-Using-LSTM.git
+- Download the RhythmiX.ipynb file.
 - Open RhythmiX.ipynb in Google Colab or Jupyter Notebook.
 - Run the notebook and generate MIDI music!
