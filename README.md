@@ -1,7 +1,7 @@
 # Rhythmix-Music-Generation-Using-LSTM
 Generation of music using existing MIDI files fed as input to the LSTM network, build using Python and TensorFlow.
 
-RhythmiX is an AI-powered music generation system that composes unique piano melodies using deep learning. Built with LSTM networks, it processes MIDI data to create original musical patterns.
+Rhythmix is an AI-powered music generation system that composes unique piano melodies using deep learning. Built with LSTM networks, it processes MIDI data to create original musical patterns.
 
 Features:
 - Generates piano melodies from trained models.
